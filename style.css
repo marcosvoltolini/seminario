@@ -48,3 +48,20 @@
 
 
 /*Ramon*/
+
+body{
+
+    background-color: beige;
+}
+
+.flex{
+    color: white;
+    text-align: center;
+    align-items: center;
+
+}
+
+.menu{
+    
+    background-color: black;
+}
