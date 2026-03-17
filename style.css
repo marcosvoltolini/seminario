@@ -93,6 +93,6 @@ body{
     display: block flow
 }
 
-#exemplo_block_flow{
+#exemplo_block_flex{
     display: flex;
 }
