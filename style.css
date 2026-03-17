@@ -1,41 +1,47 @@
 /*Marcos Paulo*/
+#exemplo_block {
+    display: block;
+}
+
+#exemplo_inline {
+    display: inline;
+}
+
+#exemplo_inline_block {
+    display: inline-block;
+}
+#exemplo_flex {
+    display: flex;
+}
+#exemplo_static {
+    position: static;
+}
+#exemplo_relative {
+    position: relative;
+}
+#exemplo_fixed {
+    position: fixed;
+}
+#exemplo_sticky {
+    position: sticky;
+}
+header {
+    margin: 0;
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.valores {
+    border: 5px solid;
+    border-color: black;
+    margin: 3px;
+    border-radius: 20px;
+    padding: 5px;
+    background-color:beige;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
 
 
 
@@ -52,10 +58,11 @@
 body{
 
     background-color: beige;
+    margin: 0;
 }
 
 .flex{
-    color: white;
+    
     text-align: center;
     align-items: center;
 
@@ -63,14 +70,16 @@ body{
 
 .menu{
     margin: 30px;
-    background-color: black;
+    background-color:rgb(199, 176, 147);
+    border-radius: 25px;
+    
 }
 
 .or{
    
     padding: 70px;
     margin: 80px;
-    background-color: orange;
+    background-color:burlywood;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
 
