@@ -85,4 +85,14 @@ body{
 
 }
 
+#exemplo_table{
+    display: table
+}
 
+#exemplo_block_flow{
+    display: block flow
+}
+
+#exemplo_block_flow{
+    display: flex;
+}
