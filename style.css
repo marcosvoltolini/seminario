@@ -97,3 +97,11 @@ body{
 #exemplo_block_flex{
     display: flex;
 }
+
+#exemplo_block_grid{
+    display: grid;
+}
+
+#exemplo_block_flow-root{
+    display: block flow-root;
+}
