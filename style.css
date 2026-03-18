@@ -45,9 +45,18 @@ h2 {
 }
 
 
-
-
-
+#exemplo_inline_flex {
+    display: inline-flex; 
+}
+#exemplo_grid {
+display: grid;
+}
+#exemplo_inline_grid  {
+    display: inline-grid; 
+}
+#exemplo_flow_root {
+    display: flow-root;
+}
 
 
 
